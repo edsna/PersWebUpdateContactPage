@@ -104,7 +104,7 @@
   </head>
   <body>
   
-	<nav class="navbar navbar-light" style="background-color: #FFFFFF;">
+<nav class="navbar navbar-light" style="background-color: #FFFFFF;">
   <!-- Navbar content -->
   	<h1 align="center">
 		<a class="navbar-brand" href="http://www.edsonz.domains.trincoll.edu" title="Click to head back to Homepage" style="display: inline;">
@@ -135,10 +135,7 @@
 			</ul>
 		</a>
 	</h1>
-	</nav>
-  
-    <!-- Headline/Header -->
-
+</nav>
 	<!-- Beginning of body of page -->
 <div class="row"> 
         <div class="col">
