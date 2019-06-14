@@ -49,6 +49,7 @@ MoreDetailsh1{
 	float:left; 
     width: auto;
     padding: 20px;
+	font-family: Garamond,Baskerville,Baskerville Old Face,Hoefler Text,Times New Roman,serif; 
 /*    background-color: #ff0000;*/
     /*margin: 5px;*/
     /*height: 400px;*/
@@ -57,8 +58,9 @@ MoreDetailsh1{
 
 .MoreDetails{
 	float:right;
+	font-family: Garamond,Baskerville,Baskerville Old Face,Hoefler Text,Times New Roman,serif; 
 /*	background-color: green;*/
-	width: 50%;
+	width: auto;
 	border: 1px solid #ccc !important;
 	padding: 20px;
 	/*margin: 5px;*/
@@ -66,7 +68,7 @@ MoreDetailsh1{
 }
 
 .heading{
-        font-family: Lucida Calligraphy;
+	font-family: Garamond,Baskerville,Baskerville Old Face,Hoefler Text,Times New Roman,serif; 
 }
 
 ul{
@@ -177,10 +179,11 @@ li{
 }
 
 #SkypeButton_Call_edsonaguiar3_1{
-    display: inline;
+    /*display: inline;
     float: right;
     text-align: center;
-    /*margin: 20px;*/
+    margin: 20px;*/
+	padding: 5px;
 }
     
 }

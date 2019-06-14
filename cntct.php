@@ -241,6 +241,7 @@
                         <a target="_blank" title="Twitter" href="http://www.twitter.com/Edsn_Aguiar" style="color: blue; text-decoration: underline;"> Twitter</a>
                     </p1>
                     
+					<!--ADDS A SKYPE BUTTON TO DIRECTLY TEXT OR CALL ME
                     <p1>
                         <script type="text/javascript" src="https://secure.skypeassets.com/i/scom/js/skype-uri.js"></script>
                         <div id="SkypeButton_Call_edsonaguiar3_1">
@@ -252,7 +253,8 @@
                                  });
                             </script>
                         </div>
-                    </p1>  
+                    </p1> 
+-->					
                 </div>
             </div>
 	</div>
