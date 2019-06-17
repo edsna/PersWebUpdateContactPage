@@ -216,7 +216,7 @@ HOME WRITTEN CODE
 }
 /*Hides Picture when user's width screen size is <= 960px*/
 @media only screen and (max-width: 960px) {
-    .Foto{
+    .Foto, .hide{
         display: none;
     }
 }

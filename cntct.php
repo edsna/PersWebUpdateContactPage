@@ -108,7 +108,7 @@
   <!-- Navbar content -->
   	<h1 class="headingNavBar" align="center" style="float:center;">
 		<a class="navbar-brand" href="http://www.edsonz.domains.trincoll.edu" target="_blank" title="Click to head back to Homepage" style="display:inline;">
-			<ul class="artLogoApp" style="display: block; padding: 0px; margin: 0px; ">
+			<ul class="artLogoApp" style="display: inline-block; padding: 0px; margin: 0px; ">
 								<li style="display: inline;" id="blue">G</li>
 								<li style="display: inline;" id="red">e</li>
 								<li style="display: inline;" id="green">t</li>
@@ -173,13 +173,13 @@
 						<img src="https://www.edsonz.domains.trincoll.edu/images/Edson.png" class="Edson" align="middle">
                     </div>
                     
-                    <h2>Contact Details</h2>
+                    <h2 >Contact Details</h2>
                     
-                    <p id="Salientar">Reach out to Edson </p>
+                    <p id="Salientar" class = "hide">Reach out to Edson </p>
                     
-                    <p> <strong>Company:</strong> Trinity College</p>
+                    <p class = "hide"> <strong>Company:</strong> Trinity College</p>
                     
-                    <p> <strong>Address:</strong> 300 Summit St Hartford CT, US</p>
+                    <p class = "hide"> <strong>Address:</strong> 300 Summit St Hartford CT, US</p>
                     
                     <p> <strong>Phone:</strong> 
                         <ul>
@@ -223,7 +223,7 @@
                         </ul>
                     </p>
                     
-                    <h2>Social Networks</h2>
+                    <h2 class = "hide">Social Networks</h2>
                     
                     <p1>
 						 <a target="_blank" title="LinkedIn" href="http://www.linkedin.com/in/edsonzandamela/" style="color: blue; text-decoration: underline;"> LinkedIn</a>
@@ -234,11 +234,11 @@
 					</p1>
                     
                     <p1>
-						 <a target="_blank" title="Google +" href="http://plus.google.com/u/0/+EdsonZandamelaa" style="color: blue; text-decoration: underline;"> Google + </a>
+						 <a class = "hide" target="_blank" title="Google +" href="http://plus.google.com/u/0/+EdsonZandamelaa" style="color: blue; text-decoration: underline;"> Google + </a>
 					</p1>
                     
                     <p1>
-                        <a target="_blank" title="Twitter" href="http://www.twitter.com/Edsn_Aguiar" style="color: blue; text-decoration: underline;"> Twitter</a>
+                        <a class = "hide" target="_blank" title="Twitter" href="http://www.twitter.com/Edsn_Aguiar" style="color: blue; text-decoration: underline;"> Twitter</a>
                     </p1>
                     
 					<!--ADDS A SKYPE BUTTON TO DIRECTLY TEXT OR CALL ME
