@@ -214,4 +214,9 @@ HOME WRITTEN CODE
 	text-align: center;
 	float: center;
 }
-
+/*Hides Picture when user's width screen size is <= 960px*/
+@media only screen and (max-width: 960px) {
+    .Foto{
+        display: none;
+    }
+}
