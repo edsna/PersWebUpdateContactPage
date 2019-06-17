@@ -108,7 +108,7 @@
   <!-- Navbar content -->
   	<h1 class="headingNavBar" align="center" style="float:center;">
 		<a class="navbar-brand" href="http://www.edsonz.domains.trincoll.edu" target="_blank" title="Click to head back to Homepage" style="display:inline;">
-			<ul class="artLogoApp" style="display: inline; padding: 0px; margin: 0px; ">
+			<ul class="artLogoApp" style="display: block; padding: 0px; margin: 0px; ">
 								<li style="display: inline;" id="blue">G</li>
 								<li style="display: inline;" id="red">e</li>
 								<li style="display: inline;" id="green">t</li>

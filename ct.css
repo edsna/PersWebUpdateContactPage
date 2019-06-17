@@ -62,7 +62,7 @@ MoreDetailsh1{
 	font-family: Garamond,Baskerville,Baskerville Old Face,Hoefler Text,Times New Roman,serif; 
 /*	background-color: green;*/
 	width: auto;
-	border: 1px solid #ccc !important;
+	/*border: 1px solid #ccc !important;*/
 	padding: 20px;
 	float: center;
 	/*margin: 5px;*/
@@ -219,4 +219,8 @@ HOME WRITTEN CODE
     .Foto{
         display: none;
     }
+}
+
+.card{
+	border:none;
 }
