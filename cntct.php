@@ -102,7 +102,7 @@
 
     <title>Contact &#8211; Edson Zandamela</title>
   </head>
-  <body>
+  <body class="body">
   
 <nav class="navbar navbar-light" style="background-color: #FFFFFF;">
   <!-- Navbar content -->
@@ -138,7 +138,7 @@
 </nav>
 	<!-- Beginning of body of page -->
 <div class="row"> 
-        <div class="col">
+        <div class="col" id="col1">
               <div class="card card-block">
 				<div class="EmailForm">
                     <div id="error"><? echo $error.$successMessage; ?></div>
