@@ -41,6 +41,7 @@
 MoreDetailsh1{
     text-align: center;
     font-family: Lucida Calligraphy;
+	float: center;
 	height: auto;
 	width: auto;
 }
@@ -63,6 +64,7 @@ MoreDetailsh1{
 	width: auto;
 	border: 1px solid #ccc !important;
 	padding: 20px;
+	float: center;
 	/*margin: 5px;*/
 /*	max-width: 400p;*/
 }
@@ -206,5 +208,10 @@ HOME WRITTEN CODE
 .Edson{
     width: 340px;
     height: 340px;
+}
+
+.headingNavBar{
+	text-align: center;
+	float: center;
 }
 
