@@ -202,8 +202,8 @@
                     
                     <p class = "hide"> <strong>Address:</strong> 300 Summit St Hartford CT, US</p>
                     
-                    <p class="phone"> <strong>Phone:</strong> 
-                        <ul class="phone" style="display: inline;">
+                    <p class = ""> <strong>Phone:</strong> 
+                        <ul class = ""style="display: inline;">
                             <li style="display: inline;" id="dois">&#43;</li>
                             <li style="display: inline;" id="tres">1</li>
                             <li style="display: inline;" id="zero">&#40;</li>

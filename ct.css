@@ -216,7 +216,14 @@ HOME WRITTEN CODE
 }
 /*Hides Picture when user's width screen size is <= 960px*/
 @media only screen and (max-width: 960px) {
-    .Foto, .hide{
+    .MoreDetails, .hide, #col2{
+        display: none;
+    }
+}
+
+/*Hides phone# when user's width screen size is > 960px*/
+@media (min-width: 600px) and (max-width: 800px) {
+    .phone{
         display: none;
     }
 }
@@ -235,4 +242,8 @@ HOME WRITTEN CODE
 
 #col1{
 	text-align: left;
+}
+
+#col2{
+	 display: ;
 }
